@@ -41,3 +41,9 @@ All code was written and executed in a local Jupyter environment.
 1. Clone this repository:
    ```bash
    git clone https://github.com/deansimpson269/batch-deviation-visualization.git
+
+2. Open the Jupyter notebook and ensure the dataset file (Synthetic_Batch_Data.xlsx) is in the same directory.
+
+> **Note:** The synthetic dataset used in this project can be downloaded directly from this repository. It’s located in the root folder as Synthetic_Batch_Data.xlsx.
+
+
